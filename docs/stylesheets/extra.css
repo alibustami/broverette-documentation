@@ -1,0 +1,142 @@
+/*********************************************************************************
+ * University of Michigan – Robot Assembly
+ * Custom CSS overrides for Material for MkDocs
+ *
+ * Notes:
+ * - Uses official U-M brand colors: Maize (#FFCB05) and Blue (#00274C).
+ * - Simplified color palette with minimal variations for consistency.
+ * - Typical usage: place this file in your docs folder or theme folder, then set
+ *   "extra_css: [extra.css]" in mkdocs.yml to load it.
+ *
+ * ------------------------------------------------------------------------------
+ * MIT License (follows the same open license pattern used by Material for MkDocs)
+ * ------------------------------------------------------------------------------
+ *********************************************************************************/
+
+/* ----------------------------------------------------------------------------
+   Root overrides (light mode)
+   ---------------------------------------------------------------------------- */
+   :root {
+    /* University of Michigan brand colors */
+    --umich-blue:  #00274C;
+    --umich-maize: #FFCB05;
+  
+    /* Primary colors */
+    --md-primary-fg-color:               var(--umich-blue);
+    --md-primary-bg-color:               var(--umich-maize);
+  
+    /* Accent colors */
+    --md-accent-fg-color:                var(--umich-maize);
+    --md-accent-bg-color:                #ffffff;
+  
+    /* Code highlighting color */
+    --md-code-hl-color:                  var(--umich-blue);
+  
+    /* Link color */
+    --md-typeset-a-color:                var(--umich-blue);
+  
+    /* Footer colors */
+    --md-footer-fg-color:                #ffffff;
+    --md-footer-bg-color:                var(--umich-blue);
+  
+    /* Remove unnecessary color variations */
+    --md-primary-fg-color--light:        var(--umich-blue);
+    --md-primary-fg-color--dark:         var(--umich-blue);
+    --md-primary-bg-color--light:        var(--umich-maize);
+    --md-accent-fg-color--transparent:   rgba(255, 203, 5, 0.1);
+    --md-accent-bg-color--light:         #ffffff;
+  
+    /* Simplified shadow */
+    --md-shadow-z1:
+      0 4px 10px hsla(0, 0%, 0%, 0.05),
+      0 0 1px hsla(0, 0%, 0%, 0.1);
+    
+    /* Remove additional shadows if desired */
+  }
+  
+  /* ----------------------------------------------------------------------------
+     Body text
+     ---------------------------------------------------------------------------- */
+  .md-typeset {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: var(#000000);
+    line-height: 1.6;
+  }
+  
+  /* ----------------------------------------------------------------------------
+     Headings & Special styling
+     ---------------------------------------------------------------------------- */
+  
+  /* Make all headings use U-M Blue */
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6,
+  .md-typeset h1 > code,
+  .md-typeset h2 > code,
+  .md-typeset h3 > code,
+  .md-typeset h4 > code,
+  .md-typeset h5 > code,
+  .md-typeset h6 > code {
+    color: var(--umich-blue);
+    font-weight: 700;
+  }
+  
+  /* ----------------------------------------------------------------------------
+     Custom classes for Robot Assembly Documentation
+     ---------------------------------------------------------------------------- */
+  
+  /* Hero or banner section at top of a page */
+  .umich-hero-banner {
+    background: var(--umich-maize);
+    color: var(--umich-blue);
+    padding: 2rem 1rem;
+    text-align: center;
+    border-radius: 4px;
+  }
+  
+  /* Steps or highlight blocks for assembly instructions */
+  .assembly-step {
+    border-left: 4px solid var(--umich-maize);
+    background: rgba(255, 203, 5, 0.07);
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .assembly-step h3 {
+    margin-top: 0;
+    color: var(--umich-blue);
+  }
+  
+  /* Call to action button */
+  .umich-button {
+    display: inline-block;
+    background: var(--umich-maize);
+    color: var(--umich-blue);
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background 0.3s, color 0.3s;
+  }
+  
+  .umich-button:hover {
+    background: #ffd633; /* Slightly lighter maize on hover */
+    color: #001c34;      /* Darker blue on hover for contrast */
+  }
+  
+  /* ----------------------------------------------------------------------------
+     Footer styling
+     ---------------------------------------------------------------------------- */
+  .md-footer {
+    background: var(--umich-blue);
+    color: var(--md-footer-fg-color);
+  }
+  
+  .md-footer__title,
+  .md-footer a {
+    color: var(--md-footer-fg-color);
+  }
+  

@@ -1,0 +1,16 @@
+site_name: Broverette
+site_url: https://localhost/5050
+
+theme:
+  name: material
+  logo: docs/assets/Michigan_Wolverines_Logo.png
+  features:
+    - navigation.tabs
+
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Hardware & Robot Assembly: robot_assembly.md
+  - Software Installation: software_installation.md
