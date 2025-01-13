@@ -86,3 +86,37 @@ The final result should look like this:
 ![Alt Text 1](assets/1_24.jpg)
 
 ## Step 2: Chassis Assembly
+
+Parts needed for this step:
+
+![Parts need in step 2](assets/2_parts_needed.jpg)
+
+Add 2 x spacers to the chassis base:
+
+| Parts Needed |  |
+|---------|---------|
+| ![Alt Text 1](assets/2_1.jpg) | ![Alt Text 2](assets/2_2.jpg) |
+
+Add 2 x spacers to the black plate:
+
+| Parts Needed |  |
+|---------|---------|
+| ![Alt Text 1](assets/2_3.jpg) | ![Alt Text 2](assets/2_4.jpg) |
+
+Place the black plate on top of the chassis base:
+
+![Alt Text 1](assets/2_5.jpg)
+
+Using 4 x screws and 4 x washers, attach the black plate to the chassis base (from front to back):
+
+| Parts Needed |  |  |
+|---------|---------|---------|
+| ![Alt Text 1](assets/2_6.jpg) | ![Alt Text 2](assets/2_8.jpg) | ![Alt Text 3](assets/2_9.jpg) |
+
+Finally, attach the top plate to the black plate using 4 x screws and 4 x washers:
+
+| Parts Needed |  |  |
+|---------|---------|---------|
+| ![Alt Text 1](assets/2_10.jpg) | ![Alt Text 2](assets/2_12.jpg) | ![Alt Text 3](assets/2_13.jpg) |
+
+## Step 3: Wiring
