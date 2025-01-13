@@ -3,7 +3,7 @@ site_url: https://localhost/5050
 
 theme:
   name: material
-  logo: docs/assets/Michigan_Wolverines_Logo.png
+  logo: assets/Michigan_Wolverines_Logo.png
   features:
     - navigation.tabs
 

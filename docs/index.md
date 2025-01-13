@@ -5,7 +5,7 @@ Broverette is a ROS 2 robot platform that handles core functionalities such as `
 
 
 
-https://github.com/user-attachments/assets/fd09a295-8bf6-48be-8763-004d107b0228
+![video](https://github.com/user-attachments/assets/fd09a295-8bf6-48be-8763-004d107b0228)
 
 
 
