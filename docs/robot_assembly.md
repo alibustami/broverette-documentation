@@ -120,3 +120,87 @@ Finally, attach the top plate to the black plate using 4 x screws and 4 x washer
 | ![Alt Text 1](assets/2_10.jpg) | ![Alt Text 2](assets/2_12.jpg) | ![Alt Text 3](assets/2_13.jpg) |
 
 ## Step 3: Wiring
+
+### 3.1 Motor Wiring
+Pass the servo cable through the holes and connect it to the STM Board:
+
+|  |  |
+|---------|---------|
+| ![Alt Text 1](assets/3_1.jpg) | ![Alt Text 2](assets/3_2.jpg) |
+
+Connect the Raspberry Pi 4 with the STM Board (for power):
+
+|  |  |
+|---------|---------|
+| ![Alt Text 1](assets/3_3.jpg) | ![Alt Text 2](assets/3_4.jpg) |
+
+
+Connect the Raspberry Pi 4 with the STM Board (for communication):
+
+|  |  |
+|---------|---------|
+| ![Alt Text 1](assets/3_5.jpg) | ![Alt Text 2](assets/3_6.jpg) |
+
+Pass the motor cables through the holes and connect them to the STM Board:
+
+|  |  |  |
+|---------|---------|---------|
+| ![Alt Text 1](assets/3_7.jpg) | ![Alt Text 2](assets/3_8.jpg) | ![Alt Text 3](assets/3_9.jpg) |
+
+> ⚠️ Right motor -> Motor 4, Left motor -> Motor 2
+
+### 3.2 LiDAR Wiring
+
+Place the LiDAR on the Black Plate without mounting it and pass the cable through the holes:
+
+| Parted Needed |  | |
+|---------|---------|---------|
+| ![Alt Text 1](assets/3_10.jpg) | ![Alt Text 2](assets/3_11.jpg) | ![Alt Text 3](assets/3_12.jpg) |
+
+
+### 3.3 Camera Wiring
+
+Place the camera on the top plate and pass the cable through the holes:
+
+![Alt Text 1](assets/3_13.jpg)
+
+## Step 4: Camera, LiDAR, and OLED Display Mounting
+
+Cut the double-sided tape into pieces:
+
+| Parts Needed |  |
+|---------|---------|
+| ![Alt Text 1](assets/4_1.jpg) | ![Alt Text 2](assets/4_2.jpg) |
+
+Mount the LiDAR on the black plate:
+
+| Parts Needed |  | |
+|---------|---------|---------|
+| ![Alt Text 1](assets/4_3.jpg) | ![Alt Text 2](assets/4_4.jpg) | ![Alt Text 3](assets/4_5.jpg) |
+
+> ⚠️ Make sure the LiDAR is facing forward and the front edge is aligned as shown in the image.
+> 
+> |  |  |
+> |---------|---------|
+> | ![Alt Text 1](assets/4_6.jpg) | ![Alt Text 2](assets/4_7.jpg) |
+
+Mount the camera on the top plate:
+
+|  |  |  |
+|---------|----------|---------|
+| ![Alt Text 1](assets/4_8.jpg) | ![Alt Text 2](assets/4_9.jpg) | ![Alt Text 3](assets/4_10.jpg) |
+
+
+> ⚠️ Insure that the camera lens is at the center axis of the robot.
+> 
+> ![Alt Text 1](assets/4_11.jpg)
+
+Connect the OLED Display to the Raspberry Pi 4:
+
+![Alt Text 1](assets/4_12.jpg)
+
+Finally, mount the OLED Display on the top plate:
+
+|  |  |
+|---------|---------|
+| ![Alt Text 1](assets/4_13.jpg) | ![Alt Text 2](assets/4_14.jpg) |
