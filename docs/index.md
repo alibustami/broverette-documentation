@@ -2,7 +2,7 @@
 
 Broverette is a ROS 2 robot platform that handles core functionalities such as `cmd_vel`, `scan`, `odom`, and more. This repository contains the ROS 2 packages needed to control Broverette and interface with its sensors.
 
-![Broverette](docs/assets/Broverette_Robot_Platform.mp4)
+![Broverette](assets/Broverette_Robot_Platform.mp4)
 
 
 ## Features

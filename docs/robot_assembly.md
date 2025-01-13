@@ -11,7 +11,7 @@
 * 4 x female-female jumper wires
 * LiPo Battery with Tplug connector 
 
-![Parts](docs/assets/broverette_images/0_all.jpg)
+![Parts](assets/broverette_images/0_all.jpg)
 
 
 > Find all the necessary parts in [this Amazon list](https://www.amazon.com/hz/wishlist/ls/1HPBW0ZJIIN79)
@@ -19,4 +19,4 @@
 ## Step 1: Raspberry Pi 
 
 Parts needed for this step:
-![Parts need in step 1](docs/assets/broverette_images/1_parts_needed.jpg)
+![Parts need in step 1](assets/broverette_images/1_parts_needed.jpg)
