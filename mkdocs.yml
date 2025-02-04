@@ -12,5 +12,6 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - Creators: creators.md
   - Hardware & Robot Assembly: robot_assembly.md
   - Software Installation: software_installation.md
