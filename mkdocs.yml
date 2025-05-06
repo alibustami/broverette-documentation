@@ -15,3 +15,5 @@ nav:
   - Creators: creators.md
   - Hardware & Robot Assembly: robot_assembly.md
   - Software Installation: software_installation.md
+  - OSCAR: oscar.md
+  - SLAM & Nav2: slam_and_nav2.md

@@ -42,10 +42,11 @@ Humberto is a Robotics Master’s student at the University of Michigan. With a 
 
 **LinkedIn:** [Ali's LinkedIn](https://www.linkedin.com/in/alibustami)  
 **GitHub:** [Ali's GitHub](https://github.com/alibustami)  
-**Email:** [abustami@umich.edu](mailto:abustami@umich.edu)
+**Email:** [abustami@umich.edu](mailto:abustami@umich.edu)   
+**Website:** [Ali's Website](https://alibustami.github.io/)
 
 **Brief Bio:**  
-Ali is a Computer Science Master’s student at the University of Michigan. With a background in software development and a keen interest in robotics, he contributes to the software development and integration of the Broverette platform. Ali is passionate about creating innovative solutions that make robots smarter and more capable.
+Ali is a Computer Engineering Master’s student at the University of Michigan. With a background in software development and a keen interest in robotics, he contributes to the software development and integration of the Broverette platform. Ali is passionate about creating innovative solutions that make robots smarter and more capable.
 
 ---
 
